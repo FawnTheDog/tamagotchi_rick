@@ -17,7 +17,7 @@
 | [PCB](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) | Connecting all parts | 1 | $4.00 | $4.00 | [JLCPCB](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) |
 | [Oled .96](https://www.aliexpress.us/item/3256805954920554.html?spm=a2g0o.productlist.main.1.5541129dvatZbI&algo_pvid=ea5decd7-bde3-40d3-a539-9afe00d36e69&algo_exp_id=ea5decd7-bde3-40d3-a539-9afe00d36e69-0&pdp_ext_f=%7B%22order%22%3A%2226455%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%212.78%211.09%21%21%2118.49%217.23%21%402101d3fe17917721806556498e12ba%2112000035944225407%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A7cc545d0%3Bm03_new_user%3A-29895%3BpisId%3A5000000218032551&curPageLogUid=ux8DOfC2Rih9&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006141235306%7C_p_origin_prod%3A) | screen | 1 | $2.78 | $2.78 | [AliExpress](https://www.aliexpress.us/item/3256805954920554.html?spm=a2g0o.productlist.main.1.5541129dvatZbI&algo_pvid=ea5decd7-bde3-40d3-a539-9afe00d36e69&algo_exp_id=ea5decd7-bde3-40d3-a539-9afe00d36e69-0&pdp_ext_f=%7B%22order%22%3A%2226455%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%212.78%211.09%21%21%2118.49%217.23%21%402101d3fe17917721806556498e12ba%2112000035944225407%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A7cc545d0%3Bm03_new_user%3A-29895%3BpisId%3A5000000218032551&curPageLogUid=ux8DOfC2Rih9&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006141235306%7C_p_origin_prod%3A) |
 | **Parts subtotal** | — | — | — | **$13.88** | — |
-| **Tax & shipping** | — | — | — | **$10.00** | — |
-| **Total** | — | — | — | **$23.88** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$13.88** | — |
 
-$6.12 left of the tier's funding.
+$16.12 left of the tier's funding.
